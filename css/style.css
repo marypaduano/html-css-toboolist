@@ -47,7 +47,7 @@ h1 {
 }
 
 .list-title {
-    list-style-image: url('../icon/arrow.png');
+    list-style: none;
     font-size: 50px;
     padding: 5px;
     font-style: italic bold;
